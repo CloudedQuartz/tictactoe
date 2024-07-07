@@ -30,7 +30,6 @@ body {
     rgb(var(--background-start-rgb));
     display: flex;
     flex-direction: column;
-    border: solid red 2px;
 }
 
 @layer utilities {
